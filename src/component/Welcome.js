@@ -1,3 +1,3 @@
 export default function Wellcome() {
-    return <p>Wellcome</p>;
+    return <p>Welcome</p>;
 }
