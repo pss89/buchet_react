@@ -11,7 +11,7 @@ export default function Header() {
                     단어 추가
                 </a>
                 <a href="#x" className="link">
-                    Day 추가가
+                    Day 추가
                 </a>
             </div>
         </div>
