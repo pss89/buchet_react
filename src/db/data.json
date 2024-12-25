@@ -1,92 +1,124 @@
 {
-    "days": [
-      {
-        "id": 1,
-        "day": 1
-      },
-      {
-        "id": 2,
-        "day": 2
-      },
-      {
-        "id": 3,
-        "day": 3
-      },
-      {
-        "day": 4,
-        "id": 4
-      }
-    ],
-    "words": [
-      {
-        "id": 1,
-        "day": 1,
-        "eng": "book",
-        "kor": "책",
-        "isDone": false
-      },
-      {
-        "id": 3,
-        "day": 2,
-        "eng": "car",
-        "kor": "자동차",
-        "isDone": false
-      },
-      {
-        "id": 5,
-        "day": 3,
-        "eng": "school",
-        "kor": "학교",
-        "isDone": false
-      },
-      {
-        "id": 6,
-        "day": 3,
-        "eng": "pencil",
-        "kor": "연필",
-        "isDone": false
-      },
-      {
-        "day": 3,
-        "eng": "window",
-        "kor": "창문",
-        "isDone": false,
-        "id": 7
-      },
-      {
-        "day": 3,
-        "eng": "house",
-        "kor": "집",
-        "isDone": false,
-        "id": 8
-      },
-      {
-        "day": 2,
-        "eng": "mouse",
-        "kor": "쥐",
-        "isDone": false,
-        "id": 9
-      },
-      {
-        "day": 4,
-        "eng": "monkey",
-        "kor": "원숭이",
-        "isDone": false,
-        "id": 10
-      },
-      {
-        "day": 4,
-        "eng": "apple",
-        "kor": "사과",
-        "isDone": false,
-        "id": 11
-      },
-      {
-        "day": 3,
-        "eng": "apple",
-        "kor": "사과",
-        "isDone": false,
-        "id": 12
-      }
-    ]
-  }
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "4",
+      "day": 4
+    },
+    {
+      "id": "5",
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "2",
+      "day": 1,
+      "eng": "Apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "School",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "eng": "Mutant",
+      "kor": "돌연변이",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 2,
+      "eng": "Hero",
+      "kor": "영웅",
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "Drama",
+      "kor": "극",
+      "isDone": false
+    },
+    {
+      "id": "7",
+      "day": 3,
+      "eng": "Movie",
+      "kor": "영화",
+      "isDone": false
+    },
+    {
+      "id": "8",
+      "day": 3,
+      "eng": "Developer",
+      "kor": "개발자",
+      "isDone": false
+    },
+    {
+      "id": "9",
+      "day": 4,
+      "eng": "Server",
+      "kor": "서버",
+      "isDone": false
+    },
+    {
+      "id": "10",
+      "day": 4,
+      "eng": "Document",
+      "kor": "문서",
+      "isDone": false
+    },
+    {
+      "id": "11",
+      "day": 4,
+      "eng": "Copilot",
+      "kor": "동조자",
+      "isDone": false
+    },
+    {
+      "id": "60cb",
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "cdb8",
+      "day": "1",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "a7bf",
+      "day": "5",
+      "eng": "study",
+      "kor": "공부",
+      "isDone": false
+    }
+  ]
+}

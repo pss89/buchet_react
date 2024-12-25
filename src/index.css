@@ -131,3 +131,15 @@ button {
   height: 40px;
   font-size: 20px;
 }
+
+.link_btn_del {
+  border: 1px solid #333;
+  padding: 10px;
+  margin-left: 10px;
+  /* background-color: #efefef; */
+  font-weight: bold;
+  border-radius: 4px;
+  /* margin-left: 10px; */
+  color: #fff;
+  background-color: firebrick;
+}
